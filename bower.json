@@ -1,0 +1,21 @@
+{
+  "name": "watson-ui",
+  "description": "A generic user interface for Watson Conversation",
+  "main": "server.js",
+  "authors": [
+    "tbarlow@us.ibm.com"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ibm",
+    "watson",
+    "chat",
+    "bot",
+    "ai"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "angular": "^1.6.7",
+    "angular-scroll-glue": "^2.2.0"
+  }
+}
